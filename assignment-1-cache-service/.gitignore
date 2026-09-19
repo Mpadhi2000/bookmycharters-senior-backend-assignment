@@ -1,0 +1,10 @@
+# Composer
+vendor/
+
+# Yii runtime files
+runtime/cache/
+runtime/logs/
+
+# IDE
+.idea/
+.vscode/
